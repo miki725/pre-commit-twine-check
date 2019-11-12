@@ -1,0 +1,8 @@
+- id: twine-check
+  name: twine-check
+  description: Check package long_description via twine check
+  entry: twine-check
+  language: python
+  language_version: python3
+  pass_filenames: false
+  always_run: true
